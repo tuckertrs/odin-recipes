@@ -1,0 +1,1 @@
+After spending the better part of 2 hours struggling to understand github, I finally managed to get everything set up. I intend to use this project to strengthen my understanding of html and programming in general.
